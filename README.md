@@ -19,7 +19,6 @@ and interactive reporting.
 
 - [Download Interactive Excel Workbook](workbook/Hotel_Booking_Portfolio.xlsx)
 - [View Dashboard Image](assets/hotel-booking-dashboard.jpg)
-- Source: [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 ## Business Questions
 
@@ -37,6 +36,7 @@ The analysis focuses on the following questions:
 - Observation period: July 2015 – August 2017
 - Domain: Hotel bookings
 - Unit of analysis: Booking record
+- Source: [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 The dataset does not contain a unique customer identifier, so booking
 records should not be interpreted as unique customers.
 

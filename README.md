@@ -37,8 +37,8 @@ The analysis focuses on the following questions:
 - Domain: Hotel bookings
 - Unit of analysis: Booking record
 - Source: [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
-The dataset does not contain a unique customer identifier, so booking
-records should not be interpreted as unique customers.
+
+The dataset does not contain a unique customer identifier, so booking records should not be interpreted as unique customers.
 
 ## Tools & Skills
 

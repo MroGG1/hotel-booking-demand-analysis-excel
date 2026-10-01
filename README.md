@@ -1,11 +1,9 @@
-# hotel-booking-demand-analysis-excel
-Hotel booking analysis using Excel, Power Query, PivotTables, PivotCharts, and interactive slicers to explore cancellations, booking trends, and customer patterns.
-
 # Hotel Booking Demand Analysis
 
-Excel-based analysis of hotel booking patterns, cancellations, seasonality,
-and customer booking behavior using Power Query, PivotTables, PivotCharts,
-and interactive slicers.
+**Tools:** Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers  
+**Dataset:** 119,390 booking records  
+**Period:** July 2015 – August 2017  
+**Focus:** Cancellation, booking trends, market segments, and lead time
 
 ## Project Overview
 
@@ -16,6 +14,12 @@ and customer booking patterns.
 The analysis was developed entirely in Microsoft Excel using Power Query
 for data preparation and PivotTables, PivotCharts, and slicers for analysis
 and interactive reporting.
+
+## Project Files
+
+- [Download Interactive Excel Workbook](workbook/Hotel_Booking_Portfolio.xlsx)
+- [View Dashboard Image](assets/hotel-booking-dashboard.jpg)
+- Source: [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 ## Business Questions
 

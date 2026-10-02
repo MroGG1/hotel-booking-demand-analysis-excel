@@ -15,6 +15,12 @@ The analysis was developed entirely in Microsoft Excel using Power Query
 for data preparation and PivotTables, PivotCharts, and slicers for analysis
 and interactive reporting.
 
+## Interactive Dashboard
+
+Explore the interactive Looker Studio dashboard:
+
+[View Interactive Dashboard](https://datastudio.google.com/reporting/599894d4-36d7-4c4a-9167-30d780122590)
+
 ## Project Files
 
 - [Download Interactive Excel Workbook](workbook/Hotel_Booking_Portfolio.xlsx)
